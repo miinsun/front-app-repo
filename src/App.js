@@ -64,7 +64,7 @@ function App(props) {
             align="center"
             className={classes.title}
           >
-            Hello I AM MINSUN <3<3<3
+            Hello I AM MINSUN
           </Typography>
           {new Date().toLocaleTimeString()}
         </Toolbar>
